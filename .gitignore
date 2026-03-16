@@ -1,0 +1,17 @@
+# Firebase credentials
+GoogleService-Info.plist
+
+# Xcode user-specific data
+xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Build output
+build/
+DerivedData/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# macOS
+.DS_Store
